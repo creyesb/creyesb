@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @creyesb
 - 👀 I’m interested in React
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---

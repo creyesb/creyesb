@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @creyesb
 - 👀 I’m interested in React
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Angular
 
 
 
